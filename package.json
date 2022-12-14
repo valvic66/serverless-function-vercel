@@ -1,0 +1,15 @@
+{
+  "name": "function-trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "graphql": "^16.6.0",
+    "graphql-request": "^5.0.0",
+    "vercel": "^28.8.0"
+  }
+}
